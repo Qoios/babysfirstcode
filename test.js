@@ -5,5 +5,4 @@
 
 const fs = require("fs");
 
-
 console.log("Whatever old nonsense.");
